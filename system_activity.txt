@@ -1,0 +1,40 @@
+
+[2025-05-28 09:35:04]
+CPU Usage: 16.9%
+Memory Usage: 63.0%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:09]
+CPU Usage: 3.1%
+Memory Usage: 62.5%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:14]
+CPU Usage: 1.6%
+Memory Usage: 62.4%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:19]
+CPU Usage: 10.9%
+Memory Usage: 62.2%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:24]
+CPU Usage: 22.5%
+Memory Usage: 62.2%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:29]
+CPU Usage: 12.4%
+Memory Usage: 62.4%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:34]
+CPU Usage: 30.0%
+Memory Usage: 62.4%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...
+
+[2025-05-28 09:35:39]
+CPU Usage: 7.0%
+Memory Usage: 62.3%
+Running Processes: System Idle Process, System, , svchost.exe, Registry, pet.exe, smss.exe, svchost.exe, csrss.exe, wininit.exe...

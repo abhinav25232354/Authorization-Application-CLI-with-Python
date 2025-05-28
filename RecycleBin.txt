@@ -1,0 +1,31 @@
+from InquirerPy import inquirer
+
+option = inquirer.select(
+     message="Choose an option:",
+     choices=["Option 1", "Option 2", "Option 3", "Exit"],
+).execute()
+
+print(f"You selected: {option}")
+
+-------------******-------------------------
+
+from cryptography.fernet import Fernet
+
+key = Fernet.generate_key()
+cipher = Fernet(key)
+
+message = "Hello, this is a secret!"
+print("Original:", message)
+
+# Encrypt the message
+encrypted_message = cipher.encrypt(message.encode())
+print("Encrypted:", encrypted_message.decode())
+
+# Decrypt the message
+decrypted_message = cipher.decrypt(encrypted_message).decode()
+print("Decrypted:", decrypted_message)
+
+# with open("confidential.txt", "wb") as f:
+#     encrypted_message = cipher.encrypt(password.encode())
+#     # encrypted_message.decode()
+#     f.write(encrypted_message)
