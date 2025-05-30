@@ -16,8 +16,10 @@ def showPassword():
             if password == decrypted_message:
                 print("Decrypted: ")
                 print(decrypted_message)
+                return decrypted_message
             else:
                 print("Invalid Credential")
+                return
         except Exception as e:
             print(f"Error: {e}")
     except Exception as e:
